@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/social-democratic-party/static/css/main.e6c13ad2.css",
-    "main.js": "/social-democratic-party/static/js/main.76e7cc81.js",
+    "main.css": "/social-democratic-party/static/css/main.f1ba7527.css",
+    "main.js": "/social-democratic-party/static/js/main.9db99b59.js",
     "static/media/team6.jpg": "/social-democratic-party/static/media/team6.d2dc9fde98a66236a220.jpg",
     "static/media/team2.jpg": "/social-democratic-party/static/media/team2.1bbce77d57f19b6772b6.jpg",
     "static/media/logo.jpg": "/social-democratic-party/static/media/logo.ed82631fd4dd0581f486.jpg",
@@ -14,11 +14,11 @@
     "static/media/team101.jpg": "/social-democratic-party/static/media/team101.14c0e14d6b22d658e72d.jpg",
     "static/media/team99.jpg": "/social-democratic-party/static/media/team99.4fca94664a8b4e788621.jpg",
     "index.html": "/social-democratic-party/index.html",
-    "main.e6c13ad2.css.map": "/social-democratic-party/static/css/main.e6c13ad2.css.map",
-    "main.76e7cc81.js.map": "/social-democratic-party/static/js/main.76e7cc81.js.map"
+    "main.f1ba7527.css.map": "/social-democratic-party/static/css/main.f1ba7527.css.map",
+    "main.9db99b59.js.map": "/social-democratic-party/static/js/main.9db99b59.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.76e7cc81.js"
+    "static/css/main.f1ba7527.css",
+    "static/js/main.9db99b59.js"
   ]
 }
